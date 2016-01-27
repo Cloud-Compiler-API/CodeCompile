@@ -1,5 +1,5 @@
-# <code/compile>
+# \<code/compile\>
 
-<code/compile> is a google chrome app for code editing with various features
+\<code/compile\> is a google chrome app which can be used as a code editor.
 
-It also provides compilation of programs in the cloud retrieving the results.
+It also provides an option to compile the programs through the cloud and retrieve the results.
